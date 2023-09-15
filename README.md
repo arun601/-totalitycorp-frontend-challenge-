@@ -10,7 +10,7 @@ This project is a web application built using the MERN (MongoDB, Express.js, Rea
 
 ## Technology Stack
 
-- **Frontend**: React
+- **Frontend**: React,JavaScript,Antd,Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
