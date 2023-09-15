@@ -21,6 +21,8 @@ This project is a web application built using the MERN (MongoDB, Express.js, Rea
 - User registration and authentication using JWT.
 - Seamless integration of the BrainTree payment gateway for processing payments.
 - Their is a admin section where user can manage all the users details.
+- -Mongodb No Sql database used
+- Filter on price amd category
 
 
 ## Setup
